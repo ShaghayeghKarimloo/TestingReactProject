@@ -1,6 +1,6 @@
 # Testing React Apps
 
-This is the starter project for my Reacting testing course w
+This is the starter project for my Reacting testing course 
 
 ## About this Project 
 
