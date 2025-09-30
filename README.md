@@ -65,3 +65,6 @@ This will start the back-end process at `http://localhost:3000`. If port 3000 is
 
 - json-server.json
 - src/main.tsx
+## See result
+
+Type npm run test:ui in terminal to see result
